@@ -1,4 +1,8 @@
 {
-  "version": 6,
-  "url": "https://j45p41.github.io/LSM_DFU_real_firmware_0x4000.bin"
+  "version": 7,
+  "url": "https://j45p41.github.io/LSM_DFU_real_firmware_0x4000.bin",
+  "size": 198852,
+  "checksum_md5": "1d64782b14d68e0127d83ca79c3002cc",
+  "checksum_sha256": "e3be3d87e8317e3209265fb0b004c66289ce143b061edd1a2a8b6fdb34a10c26",
+  "checksum_sum32": 20357027
 }
