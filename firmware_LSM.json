@@ -1,7 +1,7 @@
 {
-  "version": 9,
-  "url": "https://j45p41.github.io/LSM_firmware_v9_0x4000.bin",
+  "version": 10,
+  "url": "https://j45p41.github.io/LSM_firmware_v10_0x4000.bin",
   "size": 176218,
-  "checksum_md5": "3a36ead0901234b2ab9b71e731000707",
-  "checksum_sha256": "ad46506292c111078c08b12b2311376955a42e075882f89b7c56e2156c1fa9e8"
+  "checksum_md5": "39f76210c133b4016ceffc1b514df34f",
+  "checksum_sha256": "b0757b44a7228803ee41ce2b21a99aa38f35673e8c0ea2e563fd4afda07e1745"
 }
