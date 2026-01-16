@@ -1,9 +1,7 @@
 {
-  "version": 14
-14,
-  "url": "https://j45p41.github.io/LSM_firmware_v14
-14_0x4000.bin",
+  "version": 14,
+  "url": "https://j45p41.github.io/LSM_firmware_v14_0x4000.bin",
   "size": 178234,
   "checksum_md5": "0d7107d639bab1403f21c8ae624e3967",
-  "checksum_sha256": "\d8c50de25f31e00d64fa1144a10e861a3afcf421b60a8f54185cf7cbd82f3e93"
+  "checksum_sha256": "d8c50de25f31e00d64fa1144a10e861a3afcf421b60a8f54185cf7cbd82f3e93"
 }
