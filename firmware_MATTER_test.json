@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "url": "https://j45p41.github.io/Matter_firmware_v1.bin",
+  "size": 819436,
+  "checksum_md5": "3bb698757d0a81c434d32bedfbe9a29b",
+  "checksum_sha256": "0f36b6ccee255cb25421fa759409ca64e58ec008efd35c65c2baa3ef15f74339",
+  "type": "matter",
+  "board": "nrf52840",
+  "sdk": "ncs-2.9.0"
+}
