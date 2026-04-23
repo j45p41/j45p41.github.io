@@ -1,9 +1,9 @@
 {
-  "version": 5,
-  "url": "https://j45p41.github.io/matter_fw_v5_signed.bin",
-  "size": 795811,
-  "checksum_md5": "426effb015b7ad046ab07f9431642ec8",
-  "checksum_sha256": "dfbf3dda606174a07ab10314d7bf47ef9c89331b802314667fd51967a7252cdc",
+  "version": 6,
+  "url": "https://j45p41.github.io/matter_fw_v6_signed.bin",
+  "size": 795828,
+  "checksum_md5": "e6e9cad0967c10306faf6b37d9cf0b0b",
+  "checksum_sha256": "e5c21ebbfe66129a1431cf9db7758467f4e331a9a1f9d5946a0f479d5f13424b",
   "type": "matter",
   "board": "nrf52840",
   "sdk": "ncs-2.9.0"
