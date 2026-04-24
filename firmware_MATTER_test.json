@@ -1,9 +1,9 @@
 {
-  "version": 18,
-  "url": "https://j45p41.github.io/Matter_firmware_v18.bin",
-  "size": 798200,
-  "checksum_md5": "23205156fef0db974e403ff0a7579a62",
-  "checksum_sha256": "22b53fa9183da4ffd38ac3a5843763c1fdbd734dc6c4aeaa5db6a089977a35f7",
+  "version": 19,
+  "url": "https://j45p41.github.io/Matter_firmware_v19.bin",
+  "size": 798523,
+  "checksum_md5": "f4b0de0f1c822d6af595b193db1289e8",
+  "checksum_sha256": "fda4e6ab20e52331dc53412b4e99505a4716d31fecfc705fc9dc3dd2f50beb71",
   "type": "matter",
   "board": "nrf52840",
   "sdk": "ncs-2.9.0"
