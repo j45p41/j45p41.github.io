@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "version_str": "1.0.0",
+  "url": "https://j45p41.github.io/MatterHub_v1.bin",
+  "size": 1808176,
+  "checksum_md5": "80824f0ee90e9406fad9ef5998f3354b",
+  "checksum_sha256": "87092af5c7b14bab58ed7326980561e7591129471edcb4c74e4ac279d5790526",
+  "type": "matterhub",
+  "board": "esp32c3"
+}
