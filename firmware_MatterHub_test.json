@@ -1,10 +1,10 @@
 {
-  "version": 13,
-  "version_str": "1.2.10-test",
-  "url": "https://j45p41.github.io/MatterHub_v13.bin",
-  "size": 1803920,
-  "checksum_md5": "825bc3beb60615a9adae8a60a4443531",
-  "checksum_sha256": "d0f2736606b5572a17993bc7c9301bff3a5f42ba4253ba87eec7d70d04f084d6",
+  "version": 14,
+  "version_str": "1.2.11-test",
+  "url": "https://j45p41.github.io/MatterHub_v14.bin",
+  "size": 1804096,
+  "checksum_md5": "b49841c87453e36b161afc691f7cd5d9",
+  "checksum_sha256": "4b96f6af8fa67b62c6cc6e8eebe79a4bdcc402ee2c6803fb5c174af8300ad125",
   "type": "matterhub",
   "board": "esp32c3"
 }
