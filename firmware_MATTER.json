@@ -1,10 +1,11 @@
 {
-  "version": 72,
-  "url": "https://j45p41.github.io/Matter_firmware_v72.bin",
-  "size": 744115,
-  "checksum_md5": "8170f2b36dbbfeeb6de8ca024d054eac",
-  "checksum_sha256": "0323f95da63fcdf154bf39fe17ec70a4796ed04ea3a77deeaedc7a4c130c471f",
+  "version": 73,
+  "url": "https://j45p41.github.io/Matter_firmware_v73_android.bin",
+  "size": 743144,
+  "checksum_md5": "d48dd9c8637af43be13cacf9ba5084ba",
+  "checksum_sha256": "fd15186fee4061a37db5365dbfbe2d2159707f6c6230a101b49dc72c0bb427bd",
   "type": "matter",
   "board": "nrf52840",
-  "sdk": "ncs-2.9.0"
+  "sdk": "ncs-2.9.0",
+  "notes": "Universal discriminator=3840, passcode=20202021. SetUniqueDiscriminator() disabled \u2014 every LSM pairs with QR MT:8IXS142C00KA0648G00. Pair only one un-paired LSM at a time."
 }
