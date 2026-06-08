@@ -1,11 +1,10 @@
 {
-  "version": 73,
-  "url": "https://j45p41.github.io/Matter_firmware_v73_android.bin",
-  "size": 743807,
-  "checksum_md5": "49dfa556193a3e02beab9372519d6144",
-  "checksum_sha256": "8547a21dffdcbc346a1d44518e2649ca4133d4306c0a09045fc90993338b8900",
+  "version": 74,
+  "url": "https://j45p41.github.io/Matter_firmware_v74.bin",
+  "size": 743903,
+  "checksum_md5": "2526dbb9e25a7798a5c7d3bd9b8b1ecd",
+  "checksum_sha256": "22bb94f370e7620d051f4f58332f081dad0625abf9516ded76273bdffeb166c4",
   "type": "matter",
   "board": "nrf52840",
-  "sdk": "ncs-2.9.0",
-  "notes": "MCUboot-signed. Universal discriminator=3840, passcode=20202021. QR MT:8IXS142C00KA0648G00. Pair one LSM at a time."
+  "sdk": "ncs-2.9.0"
 }
