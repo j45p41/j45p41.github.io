@@ -1,11 +1,11 @@
 {
-  "version": 45,
-  "url": "https://j45p41.github.io/LSM_firmware_v45_0x4000.bin",
-  "size": 164976,
-  "checksum_md5": "43e9750c55b2ffafed50571bc446b91a",
-  "checksum_sha256": "7be15885f0d2282e6d7f0bb97ee9ace6b9c1bc8c8f602f7a6e0859d4d63839cf",
-  "compressedUrl": "https://j45p41.github.io/LSM_firmware_v45_0x4000.zlib",
-  "compressedSize": 117303,
-  "compressedMd5": "02dfead61e67ff838a30e90a355716f2",
-  "compressedSha256": "626f572c998fc297b4287959697696cdd3a2ad913ec67ee08ed6c9618bacf858"
+  "version": 46,
+  "url": "https://j45p41.github.io/LSM_firmware_v46_0x4000.bin",
+  "size": 165120,
+  "checksum_md5": "026911dbf8538e2e3244418f8323e785",
+  "checksum_sha256": "5ea9b50183cf6bfdd4923af4a7e9a6121472ff2b130014baff00b7f4710dc9d1",
+  "compressedUrl": "https://j45p41.github.io/LSM_firmware_v46_0x4000.zlib",
+  "compressedSize": 117409,
+  "compressedMd5": "1927cd86365bbf432866650c11317479",
+  "compressedSha256": "2f90dcd7dab7b43904d60c59bc265ee433fbe467e647dd915f603ed5be789fe2"
 }
