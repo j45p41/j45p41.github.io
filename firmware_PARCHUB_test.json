@@ -1,10 +1,10 @@
 {
-  "version": 3,
-  "version_str": "1.0.2",
-  "url": "https://j45p41.github.io/PARCHub_firmware_v3.bin",
+  "version": 4,
+  "version_str": "1.0.3",
+  "url": "https://j45p41.github.io/PARCHub_firmware_v4.bin",
   "size": 1191904,
-  "checksum_md5": "9ba3056bba02bafa6400abe3e6a30747",
-  "checksum_sha256": "fa141d450ff04fdbd3e8de5fb9f2abe1669ceb5a4de8fc107076faa5c270e39e",
+  "checksum_md5": "8109dbaa3f80a222b7c1c18a3bdb9289",
+  "checksum_sha256": "e925e4cef29d17f159ed61c610a847a5b49efebf99284714a008fd99f0742c67",
   "type": "parchub",
   "board": "esp32s3",
   "auto_adopt": false
