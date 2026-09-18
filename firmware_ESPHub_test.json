@@ -1,10 +1,10 @@
 {
-  "version": 27,
-  "version_str": "1.2.6",
-  "url": "https://j45p41.github.io/ESPHub_v27.bin",
+  "version": 28,
+  "version_str": "1.2.7",
+  "url": "https://j45p41.github.io/ESPHub_v28.bin",
   "size": 1576992,
-  "checksum_md5": "94682b31212c73cd763afadb34c840df",
-  "checksum_sha256": "3ae53ff130aa318dd3b83a4c17a64cbbd1a9c3f727581b92e3f1550534dee975",
+  "checksum_md5": "e731a3b3e3dda8e18ee88d04420bfc96",
+  "checksum_sha256": "bb44b270cbb9a1cdae7b6a89b95bdecc620857c7271e8b1afd7cdf3ae01eabbe",
   "type": "esphub",
   "board": "esp32c3"
 }
