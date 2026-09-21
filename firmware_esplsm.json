@@ -1,2 +1,2 @@
-{ "version": 2, "url": "https://j45p41.github.io/ESPLSM_firmware_v2_0x4000.bin",
-  "size": 167440, "checksum_md5": "f530869b25510721084f70c636221a9f", "checksum_sha256": "484cba7e050ea6301174160f9e2e3dad70082a2b9919bea0b06c3a45a1f0ca78" }
+{ "version": 3, "url": "https://j45p41.github.io/ESPLSM_firmware_v3_0x4000.bin",
+  "size": 167920, "checksum_md5": "f0c22dca73fe4c93ba2ba062f778d49b", "checksum_sha256": "0a86a06f136e65f84e71fc81f581691c6c13651e9260bed3fdda56d58d2a1652" }
