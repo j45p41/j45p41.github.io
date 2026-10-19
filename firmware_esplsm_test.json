@@ -1,11 +1,11 @@
 {
-  "version": 7,
-  "url": "https://j45p41.github.io/ESPLSM_firmware_v7_0x4000.bin",
-  "size": 170320,
-  "checksum_md5": "6297d12412c91cecd73e659052ef54b2",
-  "checksum_sha256": "d2959fb3b8824324cc648ad5531c56bce033fea9def3baf9490d47448cb6f6e5",
-  "compressedUrl": "https://j45p41.github.io/ESPLSM_firmware_v7_0x4000.zlib",
-  "compressedSize": 121306,
-  "compressedMd5": "acda43e164f9fef6d7493bf5924595b3",
-  "compressedSha256": "5c85d7066b05fb33189c1bfe7f6a258b949ce5f1a36cc2cbe3f4c2cb4416ac93"
+  "version": 8,
+  "url": "https://j45p41.github.io/ESPLSM_firmware_v8_0x4000.bin",
+  "size": 170984,
+  "checksum_md5": "ef0a6aba4425a02f89e30ec72fccfe7c",
+  "checksum_sha256": "7fbcb3fc8fe83110793b372f345cc948b7cb5a7753199ed99fd414da2559e4b2",
+  "compressedUrl": "https://j45p41.github.io/ESPLSM_firmware_v8_0x4000.zlib",
+  "compressedSize": 121809,
+  "compressedMd5": "2e025ac566e9109e0fda439af63e57b0",
+  "compressedSha256": "e39c4aed074abfbfe8aa43fb9dead41ace16f026cd9fe89009eaa027522bb702"
 }
